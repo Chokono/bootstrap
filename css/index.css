@@ -1,4 +1,6 @@
-
+.btn{
+	transition: 0.3s ease;
+}
 
 .paddingO {
 	padding: 0px;
@@ -8,24 +10,12 @@
 	margin-bottom: 20px;
 }
 
-.item:first-child p, .item:first-child h3 {
-	color: red;
-}
-
-.item:nth-child(2) p, .item:nth-child(2) h3 {
-	color: cyan;
-}
-
-.item:nth-child(3) p, .item:nth-child(3) h3 {
-	color: orange;
-}
-
-.item:nth-child(4) p, .item:nth-child(4) h3 {
-	color: lightgreen;
-}
-
-.item:last-child p, .item:last-child h3 {
-	color: yellow;
+.carousel-caption{
+	background:rgba(255,255,255,0.2);
+	width: 100%;
+	left:0%;
+	right:0%;
+	width:100%;
 }
 
 .contentHidden {
@@ -63,6 +53,10 @@
 
 .group {
 	margin-top: 7px;
+}
+
+.tab_text{
+	padding:15px 0 0 0;
 }
 
 .autor {

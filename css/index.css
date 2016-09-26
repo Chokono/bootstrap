@@ -47,7 +47,6 @@
 .footer p {
 	font-size: 14px;
 	line-height: 30px;
-	vertical-align: center;
 }
 
 .fa-twitter {
@@ -64,4 +63,8 @@
 
 .group {
 	margin-top: 7px;
+}
+
+.autor {
+	color: #9d9d9d;
 }
